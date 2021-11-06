@@ -1,0 +1,9 @@
+data/
+fcl_data/
+tax_data/
+.ipynb_checkpoints/
+
+
+.DS_Store
+
+
